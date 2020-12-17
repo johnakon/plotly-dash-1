@@ -1,7 +1,4 @@
-# This file may be used to create an environment using:
-# $ conda create --name <env> --file <this file>
-# platform: win-64
-@EXPLICIT
+
 https://conda.anaconda.org/conda-forge/win-64/ca-certificates-2020.12.5-h5b45459_0.tar.bz2
 https://conda.anaconda.org/conda-forge/win-64/intel-openmp-2020.3-h57928b3_311.tar.bz2
 https://repo.anaconda.com/pkgs/main/noarch/tzdata-2020d-h14c3975_0.conda
