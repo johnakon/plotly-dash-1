@@ -19,7 +19,6 @@ dash-table==4.11.1
 decorator==4.4.2
 Flask==1.1.2
 Flask-Compress==1.8.0
-Flask-SeaSurf==0.2.3
 future==0.18.2
 gunicorn==20.0.4
 idna==2.10
